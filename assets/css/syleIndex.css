@@ -1,7 +1,18 @@
 * {
-  font-size: 30pt;
+  font-size: 20pt;
   padding: 30px;
-  border: 5px solid white;
+
   background-color: black;
   color: white;
+}
+ul {
+}
+.navbar {
+  list-style-type: none;
+  display: inline;
+  border: 5px solid white;
+}
+.special a {
+  font-size: 40pt;
+  background-color: green;
 }
